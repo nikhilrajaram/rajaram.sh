@@ -1,0 +1,6 @@
+{
+  "editorconfig": true,
+  "trailingComma": "all",
+  "singleQuote": true,
+  "semi": false
+}
